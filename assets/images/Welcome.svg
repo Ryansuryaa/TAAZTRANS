@@ -1,0 +1,49 @@
+<svg width="428" height="926" viewBox="0 0 428 926" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_4_8)">
+<rect width="428" height="926" fill="#5A9CCB"/>
+<rect x="-178.585" y="377.077" width="500.307" height="236.325" rx="118.163" transform="rotate(-32.129 -178.585 377.077)" fill="#9A4DBE"/>
+<circle cx="388" cy="763" r="151" fill="url(#paint0_angular_4_8)" fill-opacity="0.2"/>
+<circle cx="388.5" cy="763.5" r="107.5" fill="#7C5ACB"/>
+<circle cx="328.5" cy="331.5" r="4.5" fill="#D9D9D9" fill-opacity="0.2"/>
+<circle cx="328.5" cy="354.5" r="4.5" fill="#D9D9D9" fill-opacity="0.2"/>
+<ellipse cx="328.5" cy="375" rx="4.5" ry="5" fill="#D9D9D9" fill-opacity="0.2"/>
+<circle cx="328.5" cy="395.5" r="4.5" fill="#D9D9D9" fill-opacity="0.2"/>
+<circle cx="352.5" cy="331.5" r="4.5" fill="#D9D9D9" fill-opacity="0.2"/>
+<circle cx="352.5" cy="354.5" r="4.5" fill="#D9D9D9" fill-opacity="0.2"/>
+<ellipse cx="352.5" cy="375" rx="4.5" ry="5" fill="#D9D9D9" fill-opacity="0.2"/>
+<circle cx="352.5" cy="395.5" r="4.5" fill="#D9D9D9" fill-opacity="0.2"/>
+<circle cx="375.5" cy="331.5" r="4.5" fill="#D9D9D9" fill-opacity="0.2"/>
+<circle cx="375.5" cy="354.5" r="4.5" fill="#D9D9D9" fill-opacity="0.2"/>
+<ellipse cx="375.5" cy="375" rx="4.5" ry="5" fill="#D9D9D9" fill-opacity="0.2"/>
+<circle cx="375.5" cy="395.5" r="4.5" fill="#D9D9D9" fill-opacity="0.2"/>
+<circle cx="397.5" cy="331.5" r="4.5" fill="#D9D9D9" fill-opacity="0.2"/>
+<circle cx="397.5" cy="354.5" r="4.5" fill="#D9D9D9" fill-opacity="0.2"/>
+<ellipse cx="397.5" cy="375" rx="4.5" ry="5" fill="#D9D9D9" fill-opacity="0.2"/>
+<circle cx="397.5" cy="395.5" r="4.5" fill="#D9D9D9" fill-opacity="0.2"/>
+<circle cx="47.5" cy="72.5" r="4.5" fill="#D9D9D9" fill-opacity="0.2"/>
+<circle cx="47.5" cy="95.5" r="4.5" fill="#D9D9D9" fill-opacity="0.2"/>
+<ellipse cx="47.5" cy="116" rx="4.5" ry="5" fill="#D9D9D9" fill-opacity="0.2"/>
+<circle cx="47.5" cy="136.5" r="4.5" fill="#D9D9D9" fill-opacity="0.2"/>
+<circle cx="71.5" cy="72.5" r="4.5" fill="#D9D9D9" fill-opacity="0.2"/>
+<circle cx="71.5" cy="95.5" r="4.5" fill="#D9D9D9" fill-opacity="0.2"/>
+<ellipse cx="71.5" cy="116" rx="4.5" ry="5" fill="#D9D9D9" fill-opacity="0.2"/>
+<circle cx="71.5" cy="136.5" r="4.5" fill="#D9D9D9" fill-opacity="0.2"/>
+<circle cx="94.5" cy="72.5" r="4.5" fill="#D9D9D9" fill-opacity="0.2"/>
+<circle cx="94.5" cy="95.5" r="4.5" fill="#D9D9D9" fill-opacity="0.2"/>
+<ellipse cx="94.5" cy="116" rx="4.5" ry="5" fill="#D9D9D9" fill-opacity="0.2"/>
+<circle cx="94.5" cy="136.5" r="4.5" fill="#D9D9D9" fill-opacity="0.2"/>
+<circle cx="116.5" cy="72.5" r="4.5" fill="#D9D9D9" fill-opacity="0.2"/>
+<circle cx="116.5" cy="95.5" r="4.5" fill="#D9D9D9" fill-opacity="0.2"/>
+<ellipse cx="116.5" cy="116" rx="4.5" ry="5" fill="#D9D9D9" fill-opacity="0.2"/>
+<circle cx="116.5" cy="136.5" r="4.5" fill="#D9D9D9" fill-opacity="0.2"/>
+</g>
+<defs>
+<radialGradient id="paint0_angular_4_8" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(388 763) rotate(90) scale(151)">
+<stop offset="0.137153" stop-color="#D9D9D9"/>
+<stop offset="1" stop-color="#D9D9D9" stop-opacity="0"/>
+</radialGradient>
+<clipPath id="clip0_4_8">
+<rect width="428" height="926" fill="white"/>
+</clipPath>
+</defs>
+</svg>

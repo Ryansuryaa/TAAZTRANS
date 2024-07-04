@@ -1,0 +1,38 @@
+<svg width="428" height="926" viewBox="0 0 428 926" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="33.5" cy="231.523" r="107.5" fill="#6F4DBE"/>
+<circle cx="353" cy="87.0229" r="151" fill="url(#paint0_angular_757_191)" fill-opacity="0.2"/>
+<circle cx="353.5" cy="87.5229" r="107.5" fill="#7C5ACB"/>
+<circle cx="5.6189" cy="371.387" r="4.5" transform="rotate(45 5.6189 371.387)" fill="#D9D9D9" fill-opacity="0.2"/>
+<circle cx="22.5894" cy="388.357" r="4.5" transform="rotate(45 22.5894 388.357)" fill="#D9D9D9" fill-opacity="0.2"/>
+<circle cx="6.32593" cy="404.621" r="4.5" transform="rotate(45 6.32593 404.621)" fill="#D9D9D9" fill-opacity="0.2"/>
+<circle cx="38.853" cy="404.621" r="4.5" transform="rotate(45 38.853 404.621)" fill="#D9D9D9" fill-opacity="0.2"/>
+<circle cx="22.5894" cy="420.884" r="4.5" transform="rotate(45 22.5894 420.884)" fill="#D9D9D9" fill-opacity="0.2"/>
+<ellipse cx="8.09371" cy="435.38" rx="4.5" ry="5" transform="rotate(45 8.09371 435.38)" fill="#D9D9D9" fill-opacity="0.2"/>
+<circle cx="54.4092" cy="420.177" r="4.5" transform="rotate(45 54.4092 420.177)" fill="#D9D9D9" fill-opacity="0.2"/>
+<circle cx="38.1458" cy="436.441" r="4.5" transform="rotate(45 38.1458 436.441)" fill="#D9D9D9" fill-opacity="0.2"/>
+<ellipse cx="23.6501" cy="450.936" rx="4.5" ry="5" transform="rotate(45 23.6501 450.936)" fill="#D9D9D9" fill-opacity="0.2"/>
+<circle cx="9.15454" cy="465.432" r="4.5" transform="rotate(45 9.15454 465.432)" fill="#D9D9D9" fill-opacity="0.2"/>
+<rect x="-168" y="891.794" width="500.307" height="236.325" rx="118.163" transform="rotate(-45 -168 891.794)" fill="#6F4DBE"/>
+<rect x="-96.1653" y="-96.4932" width="6.98495" height="247.966" rx="3.49248" transform="rotate(-30 -96.1653 -96.4932)" fill="white" fill-opacity="0.2"/>
+<rect x="-78.0903" y="-90.7977" width="6.98495" height="247.966" rx="3.49248" transform="rotate(-30 -78.0903 -90.7977)" fill="white" fill-opacity="0.2"/>
+<rect x="-58.8511" y="-83.086" width="6.98495" height="247.966" rx="3.49248" transform="rotate(-30 -58.8511 -83.086)" fill="white" fill-opacity="0.2"/>
+<rect x="-47.761" y="-89.4888" width="6.98495" height="247.966" rx="3.49248" transform="rotate(-30 -47.761 -89.4888)" fill="white" fill-opacity="0.2"/>
+<rect x="-44.8198" y="-110.006" width="6.98495" height="247.966" rx="3.49248" transform="rotate(-30 -44.8198 -110.006)" fill="white" fill-opacity="0.2"/>
+<rect x="-40.7148" y="-128.508" width="6.98495" height="247.966" rx="3.49248" transform="rotate(-30 -40.7148 -128.508)" fill="white" fill-opacity="0.2"/>
+<rect x="298" y="457.468" width="170" height="170" transform="rotate(-30 298 457.468)" fill="url(#paint1_angular_757_191)" fill-opacity="0.2"/>
+<rect x="312.177" y="410.023" width="170" height="170" transform="rotate(-30 312.177 410.023)" fill="url(#paint2_angular_757_191)" fill-opacity="0.2"/>
+<defs>
+<radialGradient id="paint0_angular_757_191" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(353 87.0229) rotate(90) scale(151)">
+<stop offset="0.137153" stop-color="#D9D9D9"/>
+<stop offset="1" stop-color="#D9D9D9" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="paint1_angular_757_191" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(383 542.468) rotate(90) scale(85)">
+<stop stop-color="#D9D9D9"/>
+<stop offset="1" stop-color="#D9D9D9" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="paint2_angular_757_191" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(397.177 495.023) rotate(90) scale(85)">
+<stop stop-color="#D9D9D9"/>
+<stop offset="1" stop-color="#D9D9D9" stop-opacity="0"/>
+</radialGradient>
+</defs>
+</svg>

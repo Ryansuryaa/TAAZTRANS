@@ -1,0 +1,78 @@
+{
+  "project_info": {
+    "project_number": "24614197256",
+    "project_id": "aztravel-20616",
+    "storage_bucket": "aztravel-20616.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24614197256:android:c62d328756976543b159bd",
+        "android_client_info": {
+          "package_name": "com.example.az_travel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24614197256-1o3c7ac07s9j42qeqcbtkuplbc326ddb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.az_travel",
+            "certificate_hash": "f9b6aa6cf0f1d06c4195ac162618dc9075c2ec65"
+          }
+        },
+        {
+          "client_id": "24614197256-jkmvarcgj3fv5vuehmjeo72l3qicval1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.az_travel",
+            "certificate_hash": "d98942da10bda556afc73ed65dc538b24cb93137"
+          }
+        },
+        {
+          "client_id": "24614197256-m49nansvk8cjtu6bict1hbpouku8obej.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.az_travel",
+            "certificate_hash": "59a36b0898b38f43f292c64e4793143e6700d1f5"
+          }
+        },
+        {
+          "client_id": "24614197256-o6c22sh622c8iu19ehv6jlq2l8s7iffe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.az_travel",
+            "certificate_hash": "0f8db3c48ddc4b62f588d85b58bc2c80897f603d"
+          }
+        },
+        {
+          "client_id": "24614197256-ptf5p70m7fmc8t2jqcrauil4g6jj80eg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1lkm_WQv3UXSzBLYBdrk0yGzFHjCCB7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24614197256-ptf5p70m7fmc8t2jqcrauil4g6jj80eg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "24614197256-hdmofnnhujk06i3vc88ocmkcufik8ci8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.azTravel"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
